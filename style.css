@@ -55,8 +55,12 @@ body {
 }
 
 .parametro-titulo{
-    background-color: var(--fundo-texto);
-    border: 2px solid var(--borda);
-    margin-top: 32px;
-    padding: 24px;
+    font-family: var(--roboto-monon);
+    font-size: 28px;
 }
+
+.parametro-senha_titulo{
+    font-size: 24px;
+}
+
+.
