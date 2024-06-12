@@ -1,14 +1,17 @@
 :root {
     --branco: white;
     --cor-de-fundo: #00162E;
-    --fundo-senha
+    --fundo-senha: #002440;
+    --fundo-texto: #001e40
+    --borda: #
+
 }
 
 
 
 
 body {
-    color: white;
-    background-color: var (--cor-de-fundo);
+    color: var(--branco);
+    background-color: var(--cor-de-fundo);
 
 }
